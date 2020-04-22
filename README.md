@@ -1,1 +1,1 @@
-# CompilerDesign_Project
+# Lexical and Syntax Analyser for sample program
